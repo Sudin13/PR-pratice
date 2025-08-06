@@ -1,2 +1,4 @@
 # PR-pratice
-This is the repository to pratice pull request for the github session.
+Fork this repository to your github. Insert your name and create a pull request to the main repository.
+1. Kiran Khayamali
+2. 
